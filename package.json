@@ -4,7 +4,7 @@
   "description": "This is a basic ATM Machine",
   "main": "index.js",
   "type": "module",
-  "bin": "index.ts",
+  "bin": "index.js",
   "publishConfig": {
     "access": "public"
   },
