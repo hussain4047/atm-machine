@@ -1,6 +1,6 @@
 {
-  "name": "@hussain40/atm-machine",
-  "version": "1.0.1",
+  "name": "@hussain4047/atm-machine",
+  "version": "1.0.0",
   "description": "This is a basic ATM Machine",
   "main": "index.js",
   "type": "module",
